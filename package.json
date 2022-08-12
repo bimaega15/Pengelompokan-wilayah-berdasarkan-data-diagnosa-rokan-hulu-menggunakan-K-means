@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "autonumeric": "^4.6.0",
+    "mapbox-gl": "^2.9.0"
+  }
+}
